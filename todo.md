@@ -9,4 +9,4 @@
 - [ ] Make folders for each first character of file names  
 - [ ] Make each files go into their respective folder  
 - [ ] Extend the script of reversion  
-- [ ] Make the bf programs writes the bash script in a file  
+- [ ] Make the bf program writes the bash script in a file  
