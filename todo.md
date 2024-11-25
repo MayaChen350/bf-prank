@@ -1,7 +1,7 @@
 # TODOs
 
 ### Logical non-overwhelming progressive extensive plan
-- [ ] Find an interpreter/compiler for bf that works with systemf  
+- [X] Find an interpreter/compiler for bf that works with systemf ([systemf](https://github.com/ajyoon/systemf))
 - [ ] Make the program able to do one folder  
 - [ ] Files are put in that folder  
 - [ ] Write the bash script of reversion  
