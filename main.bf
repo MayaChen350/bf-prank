@@ -3,7 +3,6 @@ CP = Cell pointer
 		Make the mkdir sys_call (83)
 
 	(( Put 10 in cell 0))
-++ | STR CELL0 2
 > | MV CELL1 CP
 +++++ | STR CELL1 5
 
@@ -18,14 +17,10 @@ CP = Cell pointer
 	(( Put 10 in cell 0))
 
 	((Put 83 in cell 2))
-> | MV CELL1 CP
-++ | STR CELL1 2
->> | MV CELL3 CP
-++++ | STR CELL3 4
-<<< | MV CELL0 CP
 
 [ LOOP_3
 	>>> | MV CELL3 CP
+	++++ | STR CELL3 4
 	
 	[ LOOP_3_INNER1
 		<< | MV CELL1 CP
@@ -53,5 +48,3 @@ CP = Cell pointer
 >> | MV CELL2 CP
 +++ | ADD CELL2 3
 	((Put 83 in cell 2))
-	
-% | CALL SYS(83)
