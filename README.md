@@ -1,7 +1,7 @@
 # Bf-prank
-This project or something is a silly idea, that a program in [brainfuck]https://gist.github.com/roachhd/dce54bec8ba55fb17d3a is like the "perfect malware" because it is less understandable than assembly.
+This project or something is a silly idea, that a program in [brainfuck](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) is like the "perfect malware" because it is less understandable than assembly.
 
-So for the sillies, this... thing is an attempt at making some sort of "prankware" using ([systemf](https://github.com/ajyoon/systemf).
+So for the sillies, this... thing is an attempt at making some sort of "prankware" using [systemf](https://github.com/ajyoon/systemf).
 
 It's gonna be reversible.  
 Also, don't run this on your computer with systemf while it's not complete like, even I wouldn't, like don't do that.
@@ -21,8 +21,8 @@ I recommend [this website](https://arkark.github.io/brainfuck-online-simulator/)
 
 ## REMINDER‼️
 
-**DO NOT** trust any `brainfuck` source code running with `systemf` you can find on the internet.  
-Others might use `brainfuck/systemf` for bad things, for the reasons I mentioned above  
+**DO NOT** trust literally any `brainfuck` source code running with `systemf` you can find on the internet.  
+Others might use `brainfuck/systemf` for bad things, for the reasons I mentioned above.  
 **THEY WILL NOT BE AS KIND AS ME**
 
 If you're not sure, my advice would be to pass it in the [earlier mentioned debugger](https://arkark.github.io/brainfuck-online-simulator/) after switching the `%` to something else like `.`  
