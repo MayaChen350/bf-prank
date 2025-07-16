@@ -1,0 +1,1 @@
+cat main.bf | tr -c "+\-[].,%<>" "a" | tr -d 'a' > terse/main.bf
