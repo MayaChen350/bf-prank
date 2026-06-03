@@ -1,5 +1,5 @@
 # Bf-prank
-This project or something is a silly idea, that a program in [brainfuck](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) is like the "perfect malware" because it is less understandable than assembly.
+This project or something is a silly idea, a proof of concept that a program in [brainfuck](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) is like the "perfect malware" because it might be less understandable to reverse engineer than machine code.
 
 So for the sillies, this... thing is an attempt at making some sort of "prankware" using [systemf](https://github.com/ajyoon/systemf).
 
